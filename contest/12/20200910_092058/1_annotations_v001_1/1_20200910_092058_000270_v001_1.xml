@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>1</folder>
+  <filename>1_20200910_092058_000270.jpg</filename>
+  <path>E:\검수자료\20201019_서울5차_정유림\20201019_서울_홍선애\20200910_092058\1\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

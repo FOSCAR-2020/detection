@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_093443_004950.jpg</filename>
+  <path>C:\Users\IT1706001\Documents\데이터라벨링 검수\8차_세종4차\작업자1. 강효중\4차수 20201111\20200731_093443\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

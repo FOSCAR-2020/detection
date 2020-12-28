@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200731_133916_008910.jpg</filename>
+  <path>C:\Users\yunga\Desktop\검수요청(미작업\20201030_서울6차_윤가영\20201030_서울_임수현\20200731_133916\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

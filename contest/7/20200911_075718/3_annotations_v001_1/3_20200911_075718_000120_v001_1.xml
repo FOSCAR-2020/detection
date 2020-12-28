@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200911_075718_000120.jpg</filename>
+  <path>F:\검수파일\tqs\작업자2.오수현-20201106T093406Z-001\작업자2.오수현\5차수 20201106\20200911_075718\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

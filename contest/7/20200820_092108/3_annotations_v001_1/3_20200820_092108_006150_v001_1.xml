@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200820_092108_006150.jpg</filename>
+  <path>F:\1000.김민서\1.알바\1.검수 프로그램\2.검수용 자료\20200820_2차_노은영5\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

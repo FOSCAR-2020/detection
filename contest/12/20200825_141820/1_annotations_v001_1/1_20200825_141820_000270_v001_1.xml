@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>1</folder>
+  <filename>1_20200825_141820_000270.jpg</filename>
+  <path>C:\10. 검수데이타\11월25일 김지혜\20201125_박채순_6차수 검수요청\20200825_141820\1\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

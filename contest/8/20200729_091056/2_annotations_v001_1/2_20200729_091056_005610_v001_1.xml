@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>2</folder>
+  <filename>2_20200729_091056_005610.jpg</filename>
+  <path>C:\10. 검수데이타\10월13일 받은파일\20200729_서울_배은이\20200729_091056_2\2\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

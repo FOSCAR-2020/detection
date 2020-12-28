@@ -1,0 +1,7 @@
+*.jpg
+*.txt
+*.zip
+*.tar.gz
+*.txt
+*.cache
+/coco

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200825_141820_000270.jpg</filename>
+  <path>C:\Users\KATECH-02\Desktop\20201116(TQS서지선)_6차_성선영\작업자 1.장정임\6차수 20201116\20200825_141820\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

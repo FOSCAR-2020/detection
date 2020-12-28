@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>3</folder>
+  <filename>3_20200820_083720_002550.jpg</filename>
+  <path>C:\Users\yunga\Desktop\대구검수요청_윤가영\20200820_대구_윤수미2\20200820_083720_3\3\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>

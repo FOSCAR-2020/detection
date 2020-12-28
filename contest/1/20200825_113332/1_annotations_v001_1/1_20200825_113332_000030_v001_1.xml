@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <ver>v001_1</ver>
+  <folder>1</folder>
+  <filename>1_20200825_113332_000030.jpg</filename>
+  <path>F:\검수파일\06.신규2차작업자\2차\20200825_2차_승영일2(완)\20200825_113332\1\</path>
+  <source>
+    <database>KATECH_DB</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <index_max>0</index_max>
+</annotation>
