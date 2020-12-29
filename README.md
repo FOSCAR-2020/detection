@@ -6,7 +6,7 @@
 # 결과 재현
 `cd yolov5`
 
-`python3.8 test.py --img 1536 --conf 0.001 --batch 8 --device 0 --data contest.yaml --weights best.pt`
+`python3.8 inference.py --img 1536 --conf 0.001 --batch 8 --device 0 --data contest.yaml --weights best.pt`
 
 # precision recall curve
 ![precision_recall_curve](https://user-images.githubusercontent.com/45509381/103248020-58537880-49ac-11eb-864a-2631e3e8d605.png)
