@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ../coco/train2017.txt  
+val: ../coco/val2017.txt  
+test: ../coco/testdev2017.txt 
+
+# number of classes
+nc: 8
+
+# class names
+names: ['Pedestrian_Pedestrian', 'Pedestrian_Bicycle', 'Vehicle_Car', 'Vehicle_Motorcycle', 'Vehicle_Bus', 'Vehicle_Unknown', 'TrafficLight', 'TrafficSign']
